@@ -1,0 +1,13 @@
+# Visual Studio klasörleri
+.vs/
+*.user
+*.suo
+
+# Derleme klasörleri
+bin/
+obj/
+
+# Geçici dosyalar
+*.log
+*.db
+*.sqlite
