@@ -8,6 +8,7 @@ Windows Forms
 SQL Server 
 
 
+
 📁 Proje Özellikleri
 Öğretmen ve öğrenci kayıt işlemleri
 
@@ -20,7 +21,8 @@ Kullanıcı dostu arayüz
 Öğrenci girişi sonrası, kendi notlarını görme
 
 
-![image](https://github.com/user-attachments/assets/5c37e130-fbf3-4518-bc65-dded1ed80419)
+
+![image](https://github.com/user-attachments/assets/df761fcd-755e-4e8b-a54a-b0d587be5c23)
 
 ![image](https://github.com/user-attachments/assets/db79a1fc-8245-45fb-9ddf-110040efe874)
 
